@@ -17,9 +17,9 @@ body {
   font-size: 20px;
   color: black;
   float: right;
-  text-align: right;
-  padding-right: 30px;
-  padding-top: 35px;
+  text-align: center;
+  padding-right: 97px;
+  padding-top: 106px;
 }
 
 .ryu-container {
@@ -39,15 +39,17 @@ body {
 
 .ryu-ready-position, .ryu-throwing-hadouken, .ryu-cool {
   display: none;
+
 } 
 
 .ryu-ready-position {
   background-image: url('../images/ryu-ready-position.gif');
+  background-repeat: no-repeat;
+
 }
 
 .ryu-standing-still {
   background-image: url('../images/ryu-standing-still.png');
-  display: block;
 }
 
 .ryu-throwing-hadouken {
