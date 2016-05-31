@@ -21,7 +21,7 @@ $(document).ready(function() {
         500,
         function() {
         $(this).hide();
-        $(this).css("left", "-212px");
+        $(this).css("left", "520px");
       }
     );
 
