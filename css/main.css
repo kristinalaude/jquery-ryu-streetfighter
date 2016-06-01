@@ -18,9 +18,32 @@ body {
   color: black;
   float: right;
   text-align: center;
-  padding-right: 97px;
+  padding-right: 98px;
   padding-top: 250px;
+  letter-spacing: 0.5px;
 }
+
+.text {
+  text-align: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+  font-weight:lighter;
+  display: inline-block;
+  margin: 20px;
+  margin-top: 30px;
+  margin-left: 23px;
+  letter-spacing: 4px;
+
+}
+
+.text li {
+  display: inline-block;
+  padding-left: 10px;
+  margin-left: 62px;
+}
+
+
 
 .ryu-container {
 	float: left;
