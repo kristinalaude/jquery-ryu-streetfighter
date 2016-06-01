@@ -26,6 +26,8 @@ body {
 	float: left;
 }
 
+/*imgs*/
+
 .ryu {
 	width: 659px;
 	height: 494px;
@@ -60,8 +62,6 @@ body {
 .ryu-cool, .ryu-standing-still, .ryu-ready-position, .hadouken, .ryu-throwing-hadouken {
 	background-repeat: no-repeat;
 }
-
-
 
 
 .hadouken {
