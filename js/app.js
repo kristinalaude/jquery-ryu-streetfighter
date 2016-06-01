@@ -24,7 +24,7 @@ $(document).ready(function() {
         $(this).css("left", "520px");
       }
     );
-
+      
   })
   .mouseup(function() {
     $(".ryu-throwing-hadouken").hide();
