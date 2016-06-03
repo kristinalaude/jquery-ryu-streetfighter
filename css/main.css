@@ -13,17 +13,16 @@ body {
 }
 
 .text {
-  font-size: 14px;
+  font-size: 13px;
   color: white;
-  font-family: 'Open Sans', sans-serif;
-  display: inline-block;
+  font-family: 'Poiret One', cursive;
+  float: right;
+  text-align: center;
 }
 
+
 .text li {
-  display: inline-block;
-  letter-spacing: 0.5px;
-  padding-top: 10px;
-  margin-left: 50px;
+  letter-spacing: 3px;
 }
 
 ol, ul {
@@ -31,23 +30,24 @@ ol, ul {
 }
 
 .instructions {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-family: 'Poiret One', cursive;
+  font-size: 22px;
   color: red;
   float: right;
   text-align: center;
-  padding-right: 63px;
-  padding-top: 274px;
+  padding-right: 66px;
+  padding-top: 231px;
 }
 
-.ryu-container {
-	float: left;
-}
 
 
 .ryu {
 	width: 659px;
 	height: 494px;
+}
+
+.ryu-container {
+  float: left;
 }
 
 .ryu-cool, .ryu-standing-still, .ryu-ready-position, .hadouken, .ryu-throwing-hadouken {
@@ -89,16 +89,12 @@ ol, ul {
   height: 90px;
   display: none;
   position: absolute;
-<<<<<<< HEAD
   z-index: -100;
   top: 167px;
   left: 520px;
-=======
-  z-index: -10;
-  top: 128px;
-  left: 240px;
-  float: left;
->>>>>>> 151546fc858ef14f6a0d5325a9100930ad6117a1
+  z-index: -100;
+  
+
 }
 
 /*
