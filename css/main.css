@@ -52,10 +52,6 @@ body {
   text-align: center;
 }
 
-ul.list {
-  pa
-}
-
 
 ol, ul {
   list-style-type: none;
@@ -77,13 +73,11 @@ ol, ul {
 
 .ryu-ready-position, .ryu-throwing-hadouken, .ryu-cool {
   display: none;
-
 } 
 
 .ryu-ready-position {
   background-image: url('../images/ryu-ready-position.gif');
   background-repeat: no-repeat;
-
 }
 
 .ryu-standing-still {
@@ -102,9 +96,6 @@ ol, ul {
 	background-repeat: no-repeat;
 }
 
-
-
-
 .hadouken {
   background-image: url('../images/hadouken.gif');
   width: 156px; 
@@ -120,8 +111,6 @@ ol, ul {
 .hulk-ryu {
     filter: hue-rotate(90deg);
 }
-
-
 
 * {
   outline: red 1px solid;
